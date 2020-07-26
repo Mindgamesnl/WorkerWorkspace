@@ -1,0 +1,5 @@
+package maingo
+
+func main() {
+	
+}
